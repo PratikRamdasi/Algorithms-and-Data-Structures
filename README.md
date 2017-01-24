@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures
-algorithms and data structures implemented in Python / C and C++
+Algorithms and data structures implemented in Python / C and C++
