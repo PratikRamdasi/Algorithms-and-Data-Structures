@@ -30,7 +30,7 @@ void insertionSort(int array[], int length)
 	//print sorted array
 	for (int j=0; j < length; j++)
 	{
-		cout << array[j] << " ";
+	    cout << array[j] << " ";
 	}
 	cout << endl;
 }
@@ -41,7 +41,7 @@ int main()
 	int arr[7] = {5, 4, 7, 2, 6, 1, 3}; 
 	
 	//insertion sort the array
-    insertionSort (arr, 7);
+    	insertionSort (arr, 7);
 	
 	return 0;
 }
