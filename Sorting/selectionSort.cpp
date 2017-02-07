@@ -41,7 +41,7 @@ int main()
 	int arr[7] = {5, 4, 7, 2, 6, 1, 3}; 
 	
 	//selection sort the array
-    selectionSort(arr, 7);
+    	selectionSort(arr, 7);
      	
 	//print sorted array
 	for (int j = 0; j < 7; j++)
