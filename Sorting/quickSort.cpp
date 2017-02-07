@@ -57,7 +57,7 @@ int main()
 	int arr[7] = {5, 4, 7, 2, 6, 1, 3}; 
 	
 	//quick sort the array
-    quickSort(arr, 0, 6);
+    	quickSort(arr, 0, 6);
      	
 	//print sorted array
 	for (int j = 0; j < 7; j++)
