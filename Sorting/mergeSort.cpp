@@ -61,8 +61,8 @@ int main()
 	//input array of integers
 	int arr[7] = {5, 4, 7, 2, 6, 1, 3}; 
 	
-	//selection sort the array
-    mergeSort(arr, 0, 6);
+	//merge sort the array
+    	mergeSort(arr, 0, 6);
      	
 	//print sorted array
 	for (int j = 0; j < 7; j++)
