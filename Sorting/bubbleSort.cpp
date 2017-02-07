@@ -37,7 +37,7 @@ void bubbleSort(int array[], int length)
 	//print sorted array
 	for (int j=0; j < length; j++)
 	{
-		cout << array[j] << " ";
+	    cout << array[j] << " ";
 	}
 	cout << endl;
 }
@@ -47,8 +47,8 @@ int main()
 	//input array of integers
 	int arr[7] = {5, 4, 7, 2, 6, 1, 3}; 
 	
-	//insertion sort the array
-    bubbleSort (arr, 7);
+	//bubble sort the array
+    	bubbleSort(arr, 7);
 	
 	return 0;
 }
