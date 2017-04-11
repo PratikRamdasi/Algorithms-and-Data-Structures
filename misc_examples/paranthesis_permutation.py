@@ -3,7 +3,7 @@ Author - Pratik Ramdasi
 
 Date - 4/ 5/ 2017
 
-Title - Permutations of Paranthesis
+Title - Permutations of Parentheses
 '''
 
 ### Problem Statement - Print all possible n pairs of balanced parantheses.
